@@ -1,0 +1,4 @@
+(fix_$meta_4 loc1 loc3)
+(attack_board_4 car1 loc1)
+(attack_debark_1 car1 loc1)
+(attack_sail_1 loc1 loc3)

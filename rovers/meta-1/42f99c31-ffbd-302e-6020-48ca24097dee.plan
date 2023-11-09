@@ -1,0 +1,4 @@
+(fix_$meta_1 rover1 camera1 objective2 waypoint4 objective2 colour general)
+(attack_calibrate_1 rover1 camera1 objective2 waypoint4)
+(attack_take_image_1 rover1 waypoint4 objective2 camera1 colour)
+(attack_communicate_image_data_0 rover1 general objective2 colour waypoint4 waypoint3)
